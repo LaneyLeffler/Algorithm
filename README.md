@@ -1,4 +1,4 @@
-# Algorithm
+**Algorithm
 
 ### GROUND RULE
 1. **상호 리뷰**를 원칙으로 합니다. ( 멘토 이외에도 서로 리뷰하면서 배울 수 있길 바랍니다.)
@@ -24,3 +24,4 @@
 ✅  [WEEK7](https://github.com/Dev-StudyGroup/Algorithm/tree/main/Week_7) 👉 기본 문제 Class3 11문제 (마무리)  
 
 
+ 
